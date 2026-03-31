@@ -195,3 +195,13 @@ Cybersecurity Graduate | BCA (Cyber Security & Forensics) — Parul University
 ---
 
 ⭐ **If you found this project helpful, please give it a star!**
+
+
+
+## 📸 Screenshots
+
+### Metasploit ROOT Shell
+![Metasploit](screenshots/Metasploit%20(root%20shell).jpeg)
+
+### Suricata Alert
+![Suricata](screenshots/suricata%20alert.jpeg)
