@@ -1,0 +1,1 @@
+alert tcp any any -> 192.168.56.101 21 (msg:"FTP Backdoor Attack Detected"; content:"USER"; sid:1000001; rev:1;)
